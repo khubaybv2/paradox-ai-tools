@@ -1,0 +1,17 @@
+{
+  "name": "paradox-ai-tools",
+  "version": "1.0.0",
+  "description": "A collection of AI-powered utilities including summarization, sentiment analysis, and translation.",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "axios": "^0.26.1",
+    "framer-motion": "^10.12.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "vite": "^4.3.2"
+  }
+}
